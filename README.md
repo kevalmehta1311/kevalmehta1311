@@ -39,6 +39,36 @@
 </p>
 
 ---
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/kevalmehta1311">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<p>Email : keval.mehta.1311@gmail.com </p>
+</p>
+
+---
+
+## 🏅 Achievements
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="achievment1.jpeg" width="280"><br>
+<b>🏆 University Coding Competition</b>
+</td>
+
+<td align="center">
+<img src="achevment2.jpeg" width="280"><br>
+<b>🥈 Technical Event Achievement</b>
+</td>
+</tr>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -92,17 +122,7 @@
 
 ---
 
-## 🌐 Connect with Me
 
-<p align="center">
-
-<a href="https://github.com/kevalmehta1311">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
 
 <h3 align="center">
 ⭐ From Beginner to Better Every Day ⭐
