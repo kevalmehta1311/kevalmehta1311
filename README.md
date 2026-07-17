@@ -35,12 +35,9 @@
 
 ---
 
-# 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,mysql,git,github,vscode&perline=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=55&section=header&text=🛠️%20Languages%20and%20Tools&fontSize=28&fontColor=ffffff"/>
 </p>
-
 ---
 
 <p align="center">
