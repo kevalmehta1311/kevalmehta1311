@@ -116,7 +116,9 @@
 
 ---
 
-## 👀 Profile Views
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=55&section=header&text=👀%20Profile%20Views&fontSize=28&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 
