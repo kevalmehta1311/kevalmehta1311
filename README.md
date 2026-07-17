@@ -28,7 +28,7 @@
 
 ⚡ Motto
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=800&pause=999999&color=8A2BE2&center=true&vCenter=true&width=550&lines=💻+Code+•+Learn+•+Improve+•+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=1500&pause=3000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=600&lines=Code+Learn+Improve+Repeat" />
 </p>
 
 ---
