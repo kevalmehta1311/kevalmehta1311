@@ -27,9 +27,9 @@
 - Programming
 
 ⚡ Motto
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&lines=💻+Code+%7C+Learn+%7C+Improve+%7C+Repeat;🚀+Dream+Big+Build+Bigger;🌟+Keep+Learning+Keep+Growing;⚡+Future+Software+Developer" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
+  <b>Code • Learn • Improve • Repeat</b>
 </p>
 
 ---
