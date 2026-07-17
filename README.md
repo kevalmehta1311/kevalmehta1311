@@ -28,7 +28,9 @@
 
 ⚡ Motto
 
-> **Code • Learn • Improve • Repeat**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=800&lines=💻+Code+•+Learn+•+Improve+•+Repeat;🚀+Building+My+Future+One+Commit+at+a+Time;🌱+Learning+Python+%7C+C%2B%2B+%7C+Java;✨+Welcome+to+My+GitHub+Profile!" />
+</p>
 
 ---
 
