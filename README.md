@@ -29,7 +29,7 @@
 ⚡ Motto
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=true&width=800&lines=💻+Code+•+Learn+•+Improve+•+Repeat;🚀+Building+My+Future+One+Commit+at+a+Time;🌱+Learning+Python+%7C+C%2B%2B+%7C+Java;✨+Welcome+to+My+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&lines=💻+Code+%7C+Learn+%7C+Improve+%7C+Repeat;🚀+Dream+Big+Build+Bigger;🌟+Keep+Learning+Keep+Growing;⚡+Future+Software+Developer" />
 </p>
 
 ---
