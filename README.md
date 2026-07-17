@@ -52,6 +52,10 @@
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:7F00FF&height=55&section=header&text=🚀%20About%20Me&fontSize=28&fontColor=ffffff"/>
+</p>
+
 ## 🏅 Achievements
 
 <table align="center">
