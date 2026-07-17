@@ -7,7 +7,9 @@
 
 ---
 
-## 🚀 About Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:7F00FF&height=55&section=header&text=🚀%20About%20Me&fontSize=28&fontColor=ffffff"/>
+</p>
 
 🎓 B.Sc. IT (Data Science & Analytics)
 
@@ -30,7 +32,9 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=55&section=header&text=🛠️%20Languages%20%26%20Tools&fontSize=28&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 
@@ -39,7 +43,9 @@
 </p>
 
 ---
-## 🌐 Connect with Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:64DD17&height=55&section=header&text=🌐%20Connect%20With%20Me&fontSize=28&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 
@@ -76,7 +82,9 @@
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=55&section=header&text=📊%20GitHub%20Stats&fontSize=28&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 
@@ -88,7 +96,9 @@
 
 ---
 
-## 🔥 GitHub Streak
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:DD2476&height=55&section=header&text=🔥%20GitHub%20Streak&fontSize=28&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 
@@ -98,7 +108,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7971E,100:FFD200&height=55&section=header&text=🏆%20GitHub%20Trophies&fontSize=28&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 
@@ -108,7 +120,9 @@
 
 ---
 
-## 📈 Contribution Graph
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998E,100:38EF7D&height=55&section=header&text=📈%20Contribution%20Graph&fontSize=28&fontColor=ffffff"/>
+</p>
 
 <p align="center">
 
