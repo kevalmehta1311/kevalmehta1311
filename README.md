@@ -28,8 +28,15 @@
 
 ⚡ Motto
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35">
-  <b>Code • Learn • Improve • Repeat</b>
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+</p>
+
+<h3 align="center">
+💻 Code • Learn • Improve • Repeat
+</h3>
+
+<p align="center">
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
 ---
